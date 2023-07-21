@@ -1,1 +1,1 @@
-# Angular-dzagaduroska-2
+Dummy template
